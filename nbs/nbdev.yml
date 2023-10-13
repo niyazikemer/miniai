@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "miniai"
+  site-url: "https://niyazikemer.github.io/miniai"
+  description: "course22p2 miniai library"
+  repo-branch: main
+  repo-url: "https://github.com/niyazikemer/miniai"
